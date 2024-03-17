@@ -1,0 +1,27 @@
+.news-detail-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.news-detail {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.news-detail h3 {
+  margin-bottom: 10px;
+}
+
+.news-detail img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.news-detail p {
+  line-height: 1.5;
+}
+
